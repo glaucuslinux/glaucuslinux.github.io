@@ -1,0 +1,171 @@
+* {
+  font-weight: 100
+}
+
+a {
+  color: black;
+  text-decoration: none
+}
+
+body {
+  background-color: #6082b6;
+  color: #1a2638;
+  font-family: Ubuntu !important;
+  margin: 0;
+  padding: 5px
+}
+
+hr {
+  border-color: #6082b6;
+  border-width: 5px
+}
+
+img {
+  height: auto;
+  vertical-align: middle;
+  width: 100%
+}
+
+li {
+  list-style-type: none
+}
+
+nav a {
+  color: #e6ecf4
+}
+
+nav li {
+  display: inline
+}
+
+nav li a {
+  background-color: #6082b6;
+  margin: 15px 0 15px 5px;
+  padding: 15px
+}
+
+nav li a:hover, .current {
+  background-color: #1a2638
+}
+
+ul {
+  padding: 0
+}
+
+.banner h2 {
+  margin: 0;
+  padding: 0;
+  text-align: justify
+}
+
+.button {
+  color: #e6ecf4
+}
+
+.button i , .description i {
+  background-color: #1a2638 !important;
+  border-radius: 0 !important;
+  color: #e6ecf4 !important;
+  font-size: 1em !important
+}
+
+.card .box {
+  margin: 5px 0 0 0;
+  padding: 0px;
+  text-align: center
+}
+
+.card .box h3 {
+  margin: 0;
+  padding: 15px 0 0 0;
+  text-align: left
+}
+
+.card .box h4 {
+ text-align: left
+}
+
+.card .box hr {
+  border-width: 1px
+}
+
+.card .box i {
+  background-color: #6082b6;
+  border-radius: 50%;
+  color: #e6ecf4;
+  font-size: 96px
+}
+
+.container {
+  background-color: #e6ecf4
+}
+
+.donate i {
+  font-size: 96px
+}
+
+.footer h6 {
+  margin: 0;
+  padding: 5px
+}
+
+.row {
+  padding: 0 15px
+}
+
+.species {
+  background-color: #1a2638;
+  color: #e6ecf4;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 15px
+}
+
+.species h5 {
+  text-align: left
+}
+
+.species hr {
+  border-width: 5px;
+  border-color: #1a2638
+}
+
+.species i {
+  background-color: #e6ecf4;
+  border-radius: 50%;
+  color: #1a2638;
+  font-size: 96px
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 750px
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: 970px
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px
+  }
+}
+
+@media (max-width: 768px){
+  nav li a {
+  	display: block;
+  	margin: 15px 0
+  }
+
+  .banner img {
+  	margin-top: 15px
+  }
+
+  .brand {
+  	width: 256px
+  }
+}
