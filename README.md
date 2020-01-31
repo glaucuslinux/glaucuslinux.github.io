@@ -6,9 +6,10 @@ https://gitter.im/glaucuslinux/glaucuslinux.github.io?utm_source=badge&utm_mediu
 glaucus's website
 
 ## Mirrors
+* [BitBucket](https://bitbucket.org/glaucuslinux/glaucuslinux.github.io)
+* [Framagit](https://framagit.org/glaucuslinux/glaucuslinux.github.io)
 * [GitHub](https://github.com/glaucuslinux/glaucuslinux.github.io)
 * [GitLab](https://gitlab.com/glaucuslinux/glaucuslinux.github.io)
 * [NotABug](https://notabug.org/glaucuslinux/glaucuslinux.github.io)
-* [BitBucket](https://bitbucket.org/glaucuslinux/glaucuslinux.github.io)
-* [Framagit](https://framagit.org/glaucuslinux/glaucuslinux.github.io)
 * [SourceForge](https://git.code.sf.net/p/glaucuslinux/glaucuslinux.github.io)
+* [SourceHut](https://git.sr.ht/~glaucuslinux/glaucuslinux.github.io)
