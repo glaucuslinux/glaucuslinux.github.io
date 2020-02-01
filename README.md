@@ -1,7 +1,6 @@
 # glaucuslinux.github.io
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6d36da6efcca4a8c85083a40180b22c9)](https://app.codacy.com/gh/glaucuslinux/glaucuslinux.github.io?utm_source=github.com&utm_medium=referral&utm_content=glaucuslinux/glaucuslinux.github.io&utm_campaign=Badge_Grade_Dashboard)
-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/406298634333473a86c93ec4240b40ae)](https://www.codacy.com/gh/glaucuslinux/glaucuslinux.github.io?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=glaucuslinux/glaucuslinux.github.io&amp;utm_campaign=Badge_Grade)
 [![Join the chat at https://gitter.im/glaucuslinux/glaucuslinux.github.io](
 https://badges.gitter.im/glaucuslinux/glaucuslinux.github.io.svg)](
 https://gitter.im/glaucuslinux/glaucuslinux.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
