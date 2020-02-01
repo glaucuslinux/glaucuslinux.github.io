@@ -3,14 +3,14 @@
 }
 
 a {
-  color: black;
+  color: #1a2638;
   text-decoration: none
 }
 
 body {
   background-color: #6082b6;
   color: #1a2638;
-  font-family: Ubuntu !important;
+  font-family: Ubuntu;
   margin: 0;
   padding: 5px
 }
@@ -63,10 +63,10 @@ ul {
 }
 
 .button i , .description i {
-  background-color: #1a2638 !important;
-  border-radius: 0 !important;
-  color: #e6ecf4 !important;
-  font-size: 1em !important
+  background-color: #1a2638;
+  border-radius: 0;
+  color: #e6ecf4;
+  font-size: 1em
 }
 
 .card .box {
@@ -146,7 +146,7 @@ ul {
   border-color: #1a2638
 }
 
-.species i {
+.medal {
   background-color: #e6ecf4;
   border-radius: 50%;
   color: #1a2638;
@@ -163,13 +163,13 @@ ul {
 }
 
 .thompsoni .button i {
-  background-color: #b69460 !important;
-  color: #382c1a !important
+  background-color: #b69460;
+  color: #382c1a
 }
 
 .thompsoni .description i {
-  background-color: #b69460 !important;
-  color: #382c1a !important
+  background-color: #b69460;
+  color: #382c1a
 }
 
 .thompsoni i {
