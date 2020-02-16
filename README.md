@@ -8,6 +8,18 @@ https://gitter.im/glaucuslinux/glaucuslinux.github.io?utm_source=badge&utm_mediu
 
 glaucus's website
 
+## Community
+*   [Discord](https://discord.gg/gZSHj65)
+*   [Gitter](https://gitter.im/glaucuslinux/glaucuslinux.github.io)
+*   [Reddit](https://www.reddit.com/r/glaucus)
+*   [Telegram](https://t.me/glaucuslinux)
+
+## Donate
+*   [Ko-fi](https://ko-fi.com/glaucuslinux)
+*   [Liberapay](https://liberapay.com/glaucuslinux)
+*   [Patreon](https://www.patreon.com/glaucuslinux)
+*   [PayPal](https://www.paypal.me/glaucuslinux)
+
 ## Mirrors
 *   [BitBucket](https://bitbucket.org/glaucuslinux/glaucuslinux.github.io)
 *   [Framagit](https://framagit.org/glaucuslinux/glaucuslinux.github.io)
