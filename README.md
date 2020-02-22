@@ -9,22 +9,22 @@ https://gitter.im/glaucuslinux/glaucuslinux.github.io?utm_source=badge&utm_mediu
 glaucus's website
 
 ## Community
-*   [Discord](https://discord.gg/gZSHj65)
-*   [Gitter](https://gitter.im/glaucuslinux/glaucuslinux.github.io)
-*   [Reddit](https://www.reddit.com/r/glaucus)
-*   [Telegram](https://t.me/glaucuslinux)
+* [Discord](https://discord.gg/gZSHj65)
+* [Gitter](https://gitter.im/glaucuslinux/glaucuslinux.github.io)
+* [Reddit](https://www.reddit.com/r/glaucus)
+* [Telegram](https://t.me/glaucuslinux)
 
 ## Donate
-*   [Ko-fi](https://ko-fi.com/glaucuslinux)
-*   [Liberapay](https://liberapay.com/glaucuslinux)
-*   [Patreon](https://www.patreon.com/glaucuslinux)
-*   [PayPal](https://www.paypal.me/glaucuslinux)
+* [Ko-fi](https://ko-fi.com/glaucuslinux)
+* [Liberapay](https://liberapay.com/glaucuslinux)
+* [Patreon](https://www.patreon.com/glaucuslinux)
+* [PayPal](https://www.paypal.me/glaucuslinux)
 
 ## Mirrors
-*   [BitBucket](https://bitbucket.org/glaucuslinux/glaucuslinux.github.io)
-*   [Framagit](https://framagit.org/glaucuslinux/glaucuslinux.github.io)
-*   [GitHub](https://github.com/glaucuslinux/glaucuslinux.github.io)
-*   [GitLab](https://gitlab.com/glaucuslinux/glaucuslinux.github.io)
-*   [NotABug](https://notabug.org/glaucuslinux/glaucuslinux.github.io)
-*   [SourceForge](https://git.code.sf.net/p/glaucuslinux/glaucuslinux.github.io)
-*   [SourceHut](https://git.sr.ht/~glaucuslinux/glaucuslinux.github.io)
+* [BitBucket](https://bitbucket.org/glaucuslinux/glaucuslinux.github.io)
+* [Framagit](https://framagit.org/glaucuslinux/glaucuslinux.github.io)
+* [GitHub](https://github.com/glaucuslinux/glaucuslinux.github.io)
+* [GitLab](https://gitlab.com/glaucuslinux/glaucuslinux.github.io)
+* [NotABug](https://notabug.org/glaucuslinux/glaucuslinux.github.io)
+* [SourceForge](https://git.code.sf.net/p/glaucuslinux/glaucuslinux.github.io)
+* [SourceHut](https://git.sr.ht/~glaucuslinux/glaucuslinux.github.io)
