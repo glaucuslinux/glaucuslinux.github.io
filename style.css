@@ -1,5 +1,5 @@
 * {
-  font-weight: 300
+  font-weight: 400
 }
 
 a {
@@ -10,7 +10,7 @@ a {
 body {
   background-color: #6082b6;
   color: #1a2638;
-  font-family: Ubuntu;
+  font-family: Cantarell;
   margin: 0;
   padding: 5px
 }
