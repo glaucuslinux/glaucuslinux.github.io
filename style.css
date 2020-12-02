@@ -117,27 +117,11 @@ ul {
   color: #ed1965
 }
 
-.ko-fi:hover {
-  color: #29ABE0
-}
-
-.liberapay:hover {
-  color: #f6c915
-}
-
 .medal {
   background-color: #e6ecf4;
   border-radius: 50%;
   color: #1a2638;
   font-size: 96px
-}
-
-.patreon:hover {
-  color: #f96854
-}
-
-.paypal:hover {
-  color: #003087
 }
 
 .reddit a {
