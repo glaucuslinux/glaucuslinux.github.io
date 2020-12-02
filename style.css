@@ -104,7 +104,7 @@ ul {
   background-color: #e6ecf4
 }
 
-.discord a {
+.discord a:hover {
   color: #7289da
 }
 
@@ -113,7 +113,7 @@ ul {
   padding: 5px
 }
 
-.gitter a {
+.gitter a:hover {
   color: #ed1965
 }
 
@@ -124,7 +124,7 @@ ul {
   font-size: 96px
 }
 
-.reddit a {
+.reddit a:hover {
   color: #ff4500
 }
 
@@ -149,7 +149,7 @@ ul {
   border-color: #1a2638
 }
 
-.telegram a {
+.telegram a:hover {
   color: #0088cc
 }
 
