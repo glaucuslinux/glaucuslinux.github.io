@@ -10,7 +10,7 @@ a {
 body {
   background-color: #6082b6;
   color: #1a2638;
-  font-family: Cantarell;
+  font-family: 'Cantarell', sans-serif;
   margin: 0;
   padding: 5px
 }
@@ -44,7 +44,8 @@ nav li a {
   padding: 15px
 }
 
-nav li a:hover, .current {
+nav li a:hover,
+.current {
   background-color: #1a2638
 }
 
@@ -62,7 +63,8 @@ ul {
   color: #e6ecf4
 }
 
-.button i , .description i {
+.button i,
+.description i {
   background-color: #1a2638;
   border-radius: 0;
   color: #e6ecf4;
@@ -71,7 +73,7 @@ ul {
 
 .card .box {
   margin: 5px 0 0 0;
-  padding: 0px;
+  padding: 0;
   text-align: center
 }
 
@@ -82,7 +84,7 @@ ul {
 }
 
 .card .box h4 {
- text-align: left
+  text-align: left
 }
 
 .card .box hr {
@@ -150,7 +152,7 @@ ul {
 }
 
 .telegram a:hover {
-  color: #0088cc
+  color: #08c
 }
 
 .thompsoni {
@@ -198,7 +200,7 @@ ul {
   }
 }
 
-@media (max-width: 768px){
+@media (max-width: 768px) {
   nav li a {
     display: block;
     margin: 15px 0
